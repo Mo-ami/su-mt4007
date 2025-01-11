@@ -1,6 +1,7 @@
 [My Report](https://mo-ami.github.io/su-mt4007/Project/index.html)
 
-**job_listings.json is in the zip file**
+#### Additional Information
+The complete JSON file for job listings could not be uploaded due to its size; instead, it has been compressed into a ZIP file.
 
 #### Links for data sources:
 - [My Report](https://mo-ami.github.io/su-mt4007/Project/index.html)
