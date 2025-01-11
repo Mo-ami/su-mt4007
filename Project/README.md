@@ -7,7 +7,7 @@ The report is also available in Markdown format.
 The complete JSON file for job listings could not be uploaded due to its size; instead, it has been compressed into a ZIP file.
 
 The exact numbers in analysis might be 
-slightly off since the json file and the got updated half way through 
+slightly off since the json file got updated half way through 
 
 #### Links for data sources:
 - [My Report](https://mo-ami.github.io/su-mt4007/Project/index.html)
