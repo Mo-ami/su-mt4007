@@ -1,5 +1,8 @@
 [My Report](https://mo-ami.github.io/su-mt4007/Project/index.html)
 
+The report is also available in Markdown format.
+
+
 #### Additional Information
 The complete JSON file for job listings could not be uploaded due to its size; instead, it has been compressed into a ZIP file.
 
